@@ -1,0 +1,1 @@
+This bot was created by the community of ProjectHax.com. It is intended to be free.
